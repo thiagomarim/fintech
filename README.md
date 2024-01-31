@@ -18,6 +18,7 @@ Esse projeto foi desenvolvido utilizando as seguintes ferramentas:
 - TypeScript
 - React Router Dom
 - Recharts
+- Vite
 
 ## 🚀 Vamos começar
 
