@@ -19,3 +19,21 @@ Esse projeto foi desenvolvido utilizando as seguintes ferramentas:
 - React Router Dom
 - Recharts
 
+## 🚀 Vamos começar
+
+Clone esse projeto e acesse os arquivos.
+
+```bash
+git clone https://github.com/thiagomarim/fintech.git
+
+cd fintech
+
+```
+
+Execute esse comando para instalar as dependências.
+
+```bash
+npm install
+
+npm start
+```
