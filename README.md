@@ -1,6 +1,6 @@
 # Fintech
 
-Olá 👋🏻, esse é um projeto realizado durante o curso de React com TypeScript na [Origamid](https://www.origamid.com/), ele é basicamente uma dashboard que irá mostrar todas as informações sobre as vendas de uma empresa fictícia, utilizando uma API para pegar as informações.
+Olá 👋🏻, esse é um projeto realizado durante o curso de React com TypeScript na [Origamid](https://www.origamid.com/), ele é basicamente uma dashboard que irá mostrar todas as informações sobre as vendas de uma empresa fictícia, utilizando uma API externa para pegar as informações.
 Você pode acessar o site em [Fintech](https://fintech-snowy.vercel.app/).
 
 <br>
